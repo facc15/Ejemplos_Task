@@ -68,7 +68,7 @@ namespace TestHilos
             {
                 DelegadoDelAlfajor delegado = new DelegadoDelAlfajor(ActualizarAlfajor);
                 object[] parametros = { alfajor };
-                this.Invoke(delegado, parametros);
+                this.pictureBox1.Invoke(delegado, parametros);
             }
             else
             {
