@@ -18,7 +18,7 @@
         }
         public Alfajor(string path, string nombre, double precio):this(nombre,precio)
         {
-            this.path = path;
+            this.path = $"Alfajores/"+path;
         }
 
 

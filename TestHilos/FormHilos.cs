@@ -32,16 +32,16 @@ namespace TestHilos
 
             Alfajor[] alfajores =
             {
-                new Alfajor($"Alfajores/havanna.png","Havanna",300),
-                new Alfajor($"Alfajores/jorgito.png","Jorgito",150),
-                new Alfajor($"Alfajores/terrabusi.png","Terrabusi",180),
-                new Alfajor($"Alfajores/milka.png","Milka",220),
-                new Alfajor($"Alfajores/capitan.png","Capitan del espacio",200),
-                new Alfajor($"Alfajores/fulbito.png","Fulbito",50),
-                new Alfajor($"Alfajores/tofi.png","Tofi",206),
-                new Alfajor($"Alfajores/negro.png","Negro",250),
-                new Alfajor($"Alfajores/bonobon.png","Bon o bon",195),
-                new Alfajor($"Alfajores/fantoche.png","Fantoche triple",350),
+                new Alfajor("havanna.png","Havanna",300),
+                new Alfajor("jorgito.png","Jorgito",150),
+                new Alfajor("terrabusi.png","Terrabusi",180),
+                new Alfajor("milka.png","Milka",220),
+                new Alfajor("capitan.png","Capitan del espacio",200),
+                new Alfajor("fulbito.png","Fulbito",50),
+                new Alfajor("tofi.png","Tofi",206),
+                new Alfajor("negro.png","Negro",250),
+                new Alfajor("bonobon.png","Bon o bon",195),
+                new Alfajor("fantoche.png","Fantoche triple",350),
             };
 
 
